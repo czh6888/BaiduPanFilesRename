@@ -4,8 +4,8 @@ A iPhones/iPads BaiduPan Download Files Rename Tools
 
 
 iOS端百度网盘下载完导出文件很麻烦，百度网盘airdrop传文件只能一个一个传，这也太吃力了。如果点击多个文件，百度网盘只给出一个选择，删除选项。!!!FuckBaiduPan!!!  
-
-<p>使用该工具需要iphones/ipads越狱，这样才能进入app的沙盒拷贝数据。</br>  
+****
+>><p>使用该工具需要iphones/ipads越狱，这样才能进入app的沙盒拷贝数据。</br>  
 用filza软件或者itools4工具把Cache文件夹和netdisk.sqlite导出，并放在同一个文件夹中</br>   
 Cache文件夹路径：</br>  /private/var/mobile/Containers/Data/Application/软件名（在filza软件/itools4里会显示名字，实际是一串数字）/Documents/用户名（一长串数字）/Cache/  </br> 
 netdisk.sqlite路径：</br>  /private/var/mobile/Containers/Data/Application/软件名（在filza软件/itools4里会显示名字，实际是一串数字）/Documents/用户名（一长串数字）/netdisk.sqlite  </br>  
