@@ -7,8 +7,8 @@ iOS端百度网盘下载完导出文件很麻烦，百度网盘airdrop传文件�
 
 <p>使用该工具需要iphones/ipads越狱，这样才能进入app的沙盒拷贝数据。</br>  
 用filza软件或者itools4工具把Cache文件夹和netdisk.sqlite导出，并放在同一个文件夹中</br>   
-Cache文件夹路径： /private/var/mobile/Containers/Data/Application/软件名/（在filza软件/itools4里会显示名字，实际是一串数字）/Documents/用户名（一长串数字）/Cache/  </br> 
-netdisk.sqlite路径： /private/var/mobile/Containers/Data/Application/软件名/（在filza软件/itools4里会显示名字，实际是一串数字）/Documents/用户名（一长串数字）/netdisk.sqlite  </br>  
+Cache文件夹路径：</br>  /private/var/mobile/Containers/Data/Application/软件名/（在filza软件/itools4里会显示名字，实际是一串数字）/Documents/用户名（一长串数字）/Cache/  </br> 
+netdisk.sqlite路径：</br>  /private/var/mobile/Containers/Data/Application/软件名/（在filza软件/itools4里会显示名字，实际是一串数字）/Documents/用户名（一长串数字）/netdisk.sqlite  </br>  
 运行BaiduPanFilesRename.exe 或者 BaiduPanFilesRename.app  </br> 
 选择Cache文件夹和netdisk.sqlite存放的父文件夹  </br> 
 选择你要保留的文件层级，如果有重名但不同内容的文件建议保留一到两级避免出现文件覆盖。 </br>  
